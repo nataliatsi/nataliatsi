@@ -4,8 +4,6 @@ Atualmente sou graduanda em Sistemas Para Internet pelo IFPB e estou me formando
 
 Uma das coisas mais legais que tive a oportunidade de descobrir foi a minha vocação. No início, fiquei encantada com o front-end e tinha certeza de que era ali que eu ia me encontrar. Mas a vida na programação é cheia de surpresas, e eu acabei sendo conquistada pelo Java. (*A gente acha que escolhe a linguagem, mas, no fundo, é a linguagem que escolhe a gente!*).
 
-[![gif](https://cdnb.artstation.com/p/assets/images/images/032/916/471/original/camille-unknown-spirit.gif?1607874539)](https://www.artstation.com/artwork/rAeA5E)
-
 ## 🟩 O que estou aprendendo agora
 
 Atualmente, estou mergulhando fundo em:
