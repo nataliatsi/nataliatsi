@@ -20,8 +20,7 @@ Atualmente, estou mergulhando fundo em:
 
 ## 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nataliatsi&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="nataliatsi's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliatsi&theme=gotham&hide_border=true" alt="nataliatsi's Streak" />
-</div>
+| ![nataliatsi's Stats](https://github-readme-stats.vercel.app/api?username=nataliatsi&theme=gotham&show_icons=true&hide_border=true&count_private=true) | ![nataliatsi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nataliatsi&theme=gotham&hide_border=true) |
+| --- | --- |
+
 
