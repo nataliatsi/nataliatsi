@@ -10,7 +10,7 @@ Atualmente, estou mergulhando fundo em:
 
 - Arquitetura de microsserviços ♻️
 - Containerização com Docker 🐳
-- Spring Boot, Web e Data 🍃
+- Spring Boot, Web, Data e Security 🍃
 - Testes automatizados com JUnit 🔄️
 
 ## 🟩 Minhas Hard Skills
