@@ -2,7 +2,7 @@
 
 Atualmente sou graduanda em Sistemas Para Internet pelo IFPB e estou me formando como Desenvolvedora Java Back-End. Conheci o curso por acaso mas resolvi mergulhar de cabeça e tentar uma carreira na área (quem não arrisca não petisca, não é mesmo?). No começo, confesso que foi difícil me adaptar e entender como todos aqueles conteúdos se conectavam. Parecia um quebra-cabeça enorme! Mas, aos poucos, fui aprendendo a ver como o mundo da tecnologia faz sentido e como tudo se encaixa.
 
-Uma das coisas mais legais que tive a oportunidade de descobrir foi a minha vocação. No início, fiquei encantada com o front-end e tinha certeza de que era ali que eu ia me encontrar. Mas a vida na programação é cheia de surpresas, e eu acabei sendo conquistada pelo Java. (*A gente acha que escolhe a linguagem, mas, no fundo, é a linguagem que escolhe a gente!*).
+Uma das coisas mais legais que tive a oportunidade de descobrir foi a minha vocação. No início, fiquei encantada com o front-end e tinha certeza de que era ali que eu ia me encontrar. Mas a vida na programação é cheia de surpresas, e eu acabei sendo conquistada pelo Java.
 
 ## 🟩 O que estou aprendendo agora
 
@@ -18,7 +18,5 @@ Atualmente, estou mergulhando fundo em:
 
 ## 
 
-| ![nataliatsi's Stats](https://github-readme-stats.vercel.app/api?username=nataliatsi&theme=gotham&show_icons=true&hide_border=true&count_private=true) | ![nataliatsi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nataliatsi&theme=gotham&hide_border=true) |
+| ![nataliatsi's Stats](https://github-readme-stats.vercel.app/api?username=nataliatsi&theme=gotham&show_icons=true&hide_border=true&count_private=true) | ![nataliatsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliatsi&theme=gotham&show_icons=true&hide_border=true&layout=compact) |
 | --- | --- |
-
-
