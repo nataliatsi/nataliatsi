@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" width="380" src="./assets/tumblr_2998316ec9286c8a79c971289d70f934_3e080fee_540.webp"/></br>
+<img align="right" width="380" src="assets/tetsuo-shima.gif"/></br>
 
 * I am a Java back-end developer.
 * Graduated in Internet Systems from **[IFPB](https://estudante.ifpb.edu.br/cursos/231/)**.
