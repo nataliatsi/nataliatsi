@@ -16,7 +16,6 @@
 * I am a Java back-end developer.  
 * Graduated in Internet Systems from **[IFPB](https://estudante.ifpb.edu.br/cursos/231/)**.  
 * I work on the development of **RESTful APIs** using **Java** and **Spring Boot**.  
-* I create solutions focused on generating a positive impact on people's lives.  
 * I apply my creativity to solve problems in a practical and efficient way.  
 * I use tools like Docker, JUnit, and Swagger in my daily work.  
 * Currently working on **microservices communication**, **RabbitMq** & **Kafka**.  
