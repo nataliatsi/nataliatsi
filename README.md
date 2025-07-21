@@ -23,7 +23,7 @@
 
 </td>
 <td width="30"></td> <!-- espaçamento -->
-<td valign="top">
+<td valign="middle">
 
 <img width="380" src="assets/tetsuo-shima.gif"/>
 
