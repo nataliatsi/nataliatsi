@@ -53,6 +53,8 @@
 **Technologies:** `Java`, `Spring Boot`, `JWT`, `Swagger`, `PostgreSQL`, `Docker`  
 **Links:** [Repository](https://github.com/nataliatsi/mavis)
 
+<br/>
+
 <img align="left" height="110px" width="110px" alt="Controle de Gastos Icon" src="./assets/spendwise-icon.png" style="margin-right:15px"/>
 
 <!-- img src: https://br.freepik.com/psd-gratuitas/renderizacao-3d-do-icone-de-bitcoin-do-grafico_25778906.htm  -->
@@ -60,6 +62,8 @@
 **Spendwise API** - Backend for managing personal expenses, with dynamic filters, JWT authentication, income and expense management, budgeting by category, and financial reports generation.  
 **Technologies:** `Java`, `Spring Boot`, `JWT`, `PostgreSQL`, `Hibernate`, `JUnit`, `Swagger`  
 **Links:** [Repository](https://github.com/nataliatsi/api-despesas-java-05/tree/natalia)
+
+<br/>
 
 <img align="left" height="110px" width="110px" alt="CurrencyMate Icon" src="./assets/CurrencyMate-icon.png" style="margin-right:15px"/>
 
@@ -69,6 +73,8 @@
 **Technologies:** `Java`, `REST API Consumption`, `JSON`  
 **Links:** [Repository](https://github.com/nataliatsi/conversor-de-moeda)
 
+<br/>
+
 <img align="left" height="110px" width="110px" alt="SolrBridge Icon" src="./assets/solrbridge-icon.png" style="margin-right:15px"/>
 
 <!-- img src: https://br.freepik.com/psd-gratuitas/renderizacao-3d-do-fundo-do-mecanismo-de-pesquisa_49652304.htm#fromView=image_search_similar&page=1&position=4&uuid=d83702d4-8443-47c4-9ce4-7cd13525c1bd&query=3d+search+app -->
@@ -76,6 +82,8 @@
 **SolrBridge** - Microservice architecture for indexing and querying CSV data using Solr. Includes a Flask API to ingest data into PostgreSQL, organize it into JSON and index via Solr. Dockerized for ease of deployment.  
 **Technologies:** `Python`, `Flask`, `PostgreSQL`, `Solr`, `Docker`  
 **Links:** [Repository](https://github.com/nataliatsi/solr-with-flask-api)
+
+<br/>
 
 ---
 
