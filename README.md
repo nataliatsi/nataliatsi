@@ -1,22 +1,85 @@
-## 🍃 Oii, eu sou a Nat ♡ྀི ₊
+<div align="center">
 
-Atualmente sou graduanda em Sistemas Para Internet pelo IFPB e estou me formando como Desenvolvedora Java Back-End. Conheci o curso por acaso mas resolvi mergulhar de cabeça e tentar uma carreira na área (quem não arrisca não petisca, não é mesmo?). No começo, confesso que foi difícil me adaptar e entender como todos aqueles conteúdos se conectavam. Parecia um quebra-cabeça enorme! Mas, aos poucos, fui aprendendo a ver como o mundo da tecnologia faz sentido e como tudo se encaixa.
+# Hello, friend
 
-Uma das coisas mais legais que tive a oportunidade de descobrir foi a minha vocação. No início, fiquei encantada com o front-end e tinha certeza de que era ali que eu ia me encontrar. Mas a vida na programação é cheia de surpresas, e eu acabei sendo conquistada pelo Java.
+![Java Back-End Developer](https://img.shields.io/badge/Java%20Back--End%20Developer-gray?style=for-the-badge&color=b81d24) ![Backend Developer](https://img.shields.io/badge/<Backend%20Developer/>-gray?style=for-the-badge&color=333333) <br>
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-gray?style=for-the-badge&color=333333) ![Java Developer](https://img.shields.io/badge/Java%20Developer-gray?style=for-the-badge&color=b81d24)
 
-## 🟩 O que estou aprendendo agora
+</div>
 
-Atualmente, estou mergulhando fundo em:
+---
 
-- Arquitetura de microsserviços ♻️
-- Containerização com Docker 🐳
-- Spring Boot, Web, Data e Security 🍃
-- Testes automatizados com JUnit 🔄️
+<br>
 
-## 🟩 Minhas Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgresql,hibernate,gradle,maven,docker,c,cs,dotnet,py,flask,postman,idea,vim,vscode,html,css,bootstrap,javascript,react,vite,npm,yarn,git,github,bsd,linux,ubuntu)](https://skillicons.dev)
+<img align="right" width="380" src="./assets/tumblr_2998316ec9286c8a79c971289d70f934_3e080fee_540.webp"/></br>
 
-## 
+* I am a Java back-end developer.
+* Graduated in Internet Systems from **[IFPB](https://estudante.ifpb.edu.br/cursos/231/)**.
+* I work on the development of **RESTful APIs** using **Java** and **Spring Boot**.
+* I create solutions focused on generating a positive impact on people's lives.
+* I apply my creativity to solve problems in a practical and efficient way.
+* I use tools like Docker, JUnit, and Swagger in my daily work.
+* Currently working on  **microservices communication**, **RabbitMq** & **Kafka**.
 
-| ![nataliatsi's Stats](https://github-readme-stats.vercel.app/api?username=nataliatsi&theme=gotham&show_icons=true&hide_border=true&count_private=true) | ![nataliatsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliatsi&theme=gotham&show_icons=true&hide_border=true&layout=compact) |
-| --- | --- |
+</br>
+
+---
+
+<div align="center">
+
+![Spring](https://img.shields.io/badge/Spring_Boot-D3D3D3?style=for-the-badge&logo=springboot&logoColor=black) ![JUnit](https://img.shields.io/badge/JUnit-D3D3D3?style=for-the-badge&logo=junit5&logoColor=black) ![Swagger](https://img.shields.io/badge/Swagger-D3D3D3?style=for-the-badge&logo=swagger&logoColor=black) ![Java](https://img.shields.io/badge/Java-D3D3D3?style=for-the-badge&logo=java&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-D3D3D3?style=for-the-badge&logo=postgresql&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-D3D3D3?style=for-the-badge&logo=docker&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D3D3D3?style=for-the-badge&logo=postgresql&logoColor=black) <br>
+![Gradle](https://img.shields.io/badge/Gradle-D3D3D3?style=for-the-badge&logo=gradle&logoColor=black) ![Maven](https://img.shields.io/badge/Maven-D3D3D3?style=for-the-badge&logo=apachemaven&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-D3D3D3?style=for-the-badge&logo=postman&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-D3D3D3?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+#### FEATURED PROJECTS
+
+</div>
+
+<img align="left" height="110px" width="110px" alt="MAVIS Icon" src="./assets/mavis-icon.png" style="margin-right:15px"/>
+
+<!-- img src: https://br.freepik.com/psd-gratuitas/fundo-3d-com-venda-de-elementos-medicos_66244398.htm#fromView=image_search_similar&page=1&position=27&uuid=46612d85-6d5e-4a26-a666-446c4f6715df&query=3d+health+app  -->
+
+**MAVIS** - RESTful API for managing health profiles and send emergency alerts. Currently being refactored to separate responsibilities into microservices.  
+**Technologies:** `Java`, `Spring Boot`, `JWT`, `Swagger`, `PostgreSQL`, `Docker`  
+**Links:** [Repository](https://github.com/nataliatsi/mavis)
+
+<br/>
+
+<img align="left" height="110px" width="110px" alt="Controle de Gastos Icon" src="./assets/spendwise-icon.png" style="margin-right:15px"/>
+
+<!-- img src: https://br.freepik.com/psd-gratuitas/renderizacao-3d-do-icone-de-bitcoin-do-grafico_25778906.htm  -->
+
+**Spendwise API** - Backend for managing personal expenses, with dynamic filters, JWT authentication, income and expense management, budgeting by category, and financial reports generation.  
+**Technologies:** `Java`, `Spring Boot`, `JWT`, `PostgreSQL`, `Hibernate`, `JUnit`, `Swagger`  
+**Links:** [Repository](https://github.com/nataliatsi/api-despesas-java-05/tree/natalia)
+
+<br/>
+
+<img align="left" height="110px" width="110px" alt="CurrencyMate Icon" src="./assets/CurrencyMate-icon.png" style="margin-right:15px"/>
+
+<!-- img src: https://br.freepik.com/psd-gratuitas/renderizacao-3d-do-valor-do-icone-bitcoin_25778954.htm -->
+
+**CurrencyMate** - A console-based currency conversion tool using real-time exchange rates from ExchangeRate-API. Stores conversion history in JSON and logs key events.  
+**Technologies:** `Java`, `REST API Consumption`, `JSON`  
+**Links:** [Repository](https://github.com/nataliatsi/conversor-de-moeda)
+
+<br/>
+
+<img align="left" height="110px" width="110px" alt="SolrBridge Icon" src="./assets/solrbridge-icon.png" style="margin-right:15px"/>
+
+<!-- img src: https://br.freepik.com/psd-gratuitas/renderizacao-3d-do-fundo-do-mecanismo-de-pesquisa_49652304.htm#fromView=image_search_similar&page=1&position=4&uuid=d83702d4-8443-47c4-9ce4-7cd13525c1bd&query=3d+search+app -->
+
+**SolrBridge** - Microservice architecture for indexing and querying CSV data using Solr. Includes a Flask API to ingest data into PostgreSQL, organize it into JSON and index via Solr. Dockerized for ease of deployment.  
+**Technologies:** `Python`, `Flask`, `PostgreSQL`, `Solr`, `Docker`  
+**Links:** [Repository](https://github.com/nataliatsi/solr-with-flask-api)
+
+<br/>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliagomes-javadev/)  [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nataliatsi)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nataliasantos.ndsg@gmail.com)
+
+</div>
