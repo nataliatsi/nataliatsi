@@ -2,8 +2,8 @@
 
 # Hello, friend
 
-![Java Back-End Developer](https://img.shields.io/badge/Java%20Back--End%20Developer-gray?style=for-the-badge&color=b81d24) ![Backend Developer](https://img.shields.io/badge/<Backend%20Developer/>-gray?style=for-the-badge&color=333333) <br>
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer-gray?style=for-the-badge&color=333333) ![Java Developer](https://img.shields.io/badge/Java%20Developer-gray?style=for-the-badge&color=b81d24)
+![Java Back-End Developer](https://img.shields.io/badge/Java%20Back--End%20Developer-gray?style=flat&color=b81d24) ![Backend Developer](https://img.shields.io/badge/<Backend%20Developer/>-gray?style=flat&color=333333) <br>
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-gray?style=flat&color=333333) ![Java Developer](https://img.shields.io/badge/Java%20Developer-gray?style=flat&color=b81d24)
 
 </div>
 
