@@ -31,7 +31,7 @@
 <h2></h2>
 
 **Java Backend Developer | Freelancer**  
-_Jun. 2023 – present_
+_Jun. 2022 – present_
 
 - Development of RESTful APIs with **Java 17** and **Spring Boot**, from requirements gathering to deployment.
 - Implementation of authentication via **JWT** and **OAuth2 Resource Server**.
