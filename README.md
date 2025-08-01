@@ -49,7 +49,7 @@ _Fev. 2021 – Mar. 2025_
 
 <h2></h2>
 
-### Idiomas
+### Languages
 
 <h2></h2>
 
