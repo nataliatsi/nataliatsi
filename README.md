@@ -120,8 +120,8 @@ _Fev. 2021 – Mar. 2025_
 <!-- img src: https://br.freepik.com/psd-gratuitas/fundo-3d-com-venda-de-elementos-medicos_66244398.htm#fromView=image_search_similar&page=1&position=27&uuid=46612d85-6d5e-4a26-a666-446c4f6715df&query=3d+health+app  -->
 
 **MAVIS** - RESTful API for managing health profiles and send emergency alerts. Currently being refactored to separate responsibilities into microservices.  
-**Technologies:** `Java`, `Spring Boot`, `JWT`, `Swagger`, `PostgreSQL`, `Docker`  
-**Links:** [Repository](https://github.com/nataliatsi/mavis)
+**Technologies:** `Java`, `Spring Boot`, `JWT`, `OAuth2 RS`, `Flyway`, `Hibernate`, `Swagger`, `PostgreSQL`, `Docker`  
+**Links:** [Repository](https://github.com/nataliatsi/mavis-backend)
 
 <h2></h2>
 
@@ -130,7 +130,7 @@ _Fev. 2021 – Mar. 2025_
 <!-- img src: https://br.freepik.com/psd-gratuitas/renderizacao-3d-do-icone-de-bitcoin-do-grafico_25778906.htm  -->
 
 **Spendwise API** - Backend for managing personal expenses, with dynamic filters, JWT authentication, income and expense management, budgeting by category, and financial reports generation.  
-**Technologies:** `Java`, `Spring Boot`, `JWT`, `PostgreSQL`, `Hibernate`, `JUnit`, `Swagger`  
+**Technologies:** `Java`, `Spring Boot`, `JWT`, `OAuth2 RS`, `PostgreSQL`, `Hibernate`, `JUnit`, `Swagger`, `H2`
 **Links:** [Repository](https://github.com/nataliatsi/api-despesas-java-05/tree/natalia)
 
 <h2></h2>
