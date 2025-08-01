@@ -3,7 +3,7 @@
 
   ![Java Back-End Developer](https://img.shields.io/badge/Java%20Back--End%20Developer-gray?style=flat&color=b81d24)
   ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-gray?style=flat&color=b81d24)</br>
-  ![Repos públicos](https://img.shields.io/badge/Public%20Repositories-65-b81d24?style=flat&logo=github&logoColor=white)
+  ![Repos públicos](https://img.shields.io/badge/Public%20Repositories-40-b81d24?style=flat&logo=github&logoColor=white)
   ![Commits](https://img.shields.io/github/commit-activity/y/nataliatsi/mavis-backend?style=flat&color=b81d24&logo=github&logoColor=white)
   ![Top Lang](https://img.shields.io/github/languages/top/nataliatsi/mavis-backend?style=flat&color=b81d24&logo=java&logoColor=white)
 </div>
