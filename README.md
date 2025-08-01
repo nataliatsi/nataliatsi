@@ -18,7 +18,12 @@
 
 <h2></h2>
 
-I transitioned to IT in 2021 when I started my undergraduate degree in Internet Systems (IFPB), where I discovered my passion for back-end development. From my first exposure to Java, OOP, and Spring Boot, I knew this was the field I wanted to pursue.
+- I am a Java back-end developer.  
+- I work on the development of **RESTful APIs** using **Java** and **Spring Boot**.  
+- I create solutions focused on generating a positive impact on people's lives.  
+- I apply my creativity to solve problems in a practical and efficient way.  
+- I use tools like Docker, JUnit, and Swagger in my daily work.  
+- Currently working on **microservices communication**, **RabbitMq** & **Kafka**.  
 
 <h2></h2>
 
