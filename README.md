@@ -155,3 +155,12 @@ _Fev. 2021 – Mar. 2025_
 
 <h2></h2>
 
+<div align="center">
+
+<img height="110px" width="110px" src="assets/badges/bootcamp-santander-2025-backend-com-java.webp" alt="Badge Bootcamp Santander 2025 – Backend com Java"/>
+<img height="130px" width="130px" src="assets/badges/tonnie-java-and-ai-in-europe.webp" alt="Badge Bootcamp TONNIE – Java and AI in Europe"/>
+<img height="110px" width="110px" src="assets/badges/arquitetura-com-spring-boot-e-cloud.webp" alt="Badge Bootcamp Coding the Future – Arquitetura com Spring Boot e Cloud"/>
+<img height="110px" width="110px" src="assets/badges/bootcamp-santander-2024-backend-com-java.webp" alt="Badge Bootcamp Santander 2024 – Backend com Java"/>
+<img height="110px" width="110px" src="assets/badges/oracle-one.svg" alt="Badge Formação Java Backend Developer – Oracle Next Education + Alura"/>
+
+</div>
