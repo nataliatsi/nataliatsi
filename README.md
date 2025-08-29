@@ -86,6 +86,7 @@ _Fev. 2021 – Mar. 2025_
 ![Hibernate](https://img.shields.io/badge/Hibernate-FCC624?style=flat&logo=hibernate&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=flat&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-FCC624?style=flat&logo=vite&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6C37?style=flat&logo=rabbitmq&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6C37?style=flat&logo=ubuntu&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-FF6C37?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=flat&logo=git&logoColor=white)
