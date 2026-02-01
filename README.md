@@ -18,31 +18,70 @@
 
 <h2></h2>
 
-- I am a Java back-end developer.  
-- I work on the development of **RESTful APIs** using **Java** and **Spring Boot**.  
-- I create solutions focused on generating a positive impact on people's lives.  
-- I apply my creativity to solve problems in a practical and efficient way.  
-- I use tools like Docker, JUnit, and Swagger in my daily work.  
-- Currently working on **microservices communication**, **RabbitMq** & **Kafka**.  
+Java backend developer focused on scalable and secure RESTful APIs using Spring Boot, with experience in microservices, authentication and asynchronous communication.
+
+Experienced in building containerized applications with automated testing and clean code practices for cloud-based environments.
+
+Currently developing projects using **microservices architecture, asynchronous communication**, and integration with **AWS services** for **cloud-based systems**.
 
 <h2></h2>
+
+### Skills
+
+<h2></h2>
+
+#### Core Backend
+- Java | Spring Boot | Spring Security | JPA / Hibernate
+
+#### Architecture & Integration
+- RESTful APIs | JWT | OAuth2 | Microservices
+- RabbitMQ | Asynchronous Communication | AWS S3
+
+#### Databases
+- PostgreSQL | MySQL | MongoDB | Cassandra
+
+#### Testing & Documentation
+- JUnit | Mockito | Swagger / OpenAPI
+
+#### DevOps & Tooling
+- Docker | Maven | Gradle | Git | Linux
+
+<h2></h2>
+
+### Certifications
+
+<h2></h2>
+
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/52fba6a5-0e9a-47c1-9ec3-d7314616abd3)** – Amazon Web Services Training and Certification  
+- **[Cloud Computing, AWS services and DevOps](https://www.dio.me/certificate/SDNYBC93/share)** – Code Girls (DIO)  
+- **[Arquitetura com Spring Boot e Cloud](https://www.dio.me/certificate/BM0Z4GMM/share?utm_source=engagement&utm_medium=email&utm_campaign=coding-the-future-cognizant-arquitetura-com-spring-boot-e-cloud&utm_term=bootcamp-users&utm_content=graduation-certificate-link)** – Cognizant (DIO)  
+- **[Java Backend Developer](https://cursos.alura.com.br/program/certificate/c77ee98c-1c5a-48cf-b839-365976b46b58?lang)** – Oracle Next Education (Alura)
+  
+    </td>
+    <td width="50%" valign="top">
+
 
 ### Work Experience
 <h2></h2>
 
-**Java Backend Developer | Freelancer**  
-_Jun. 2022 – present_
+**Java Backend Developer** <br>
+Hands-on Projects and Freelance Experience
+_Feb. 2023 – present_
 
-- Development of RESTful APIs with **Java 17** and **Spring Boot**, from requirements gathering to deployment.
-- Implementation of authentication via **JWT** and **OAuth2 Resource Server**.
-- Optimization of Docker images with **multi-stage builds**, reducing their size by 50%.
-- Test coverage above 80% with **JUnit** and **Mockito**.
-- Integrations with **PostgreSQL, MySQL, MongoDB**, and external services.
-- Asynchronous communication with **RabbitMQ** and **SQS** in microservices.
-- API documentation with **Swagger/OpenAPI**.
+- Development of RESTful APIs using Java (11 and 17) and Spring Boot (Web, Data, Security)
+- Implementation of authentication and authorization with Spring Security, JWT, and OAuth2 Resource Server
+- Modeling of entities, DTOs, validations, and global exception handling
+- Integration with PostgreSQL, MySQL, MongoDB, and Cassandra databases
+- Use of Flyway for versioning and database migration
+- Implementation of asynchronous messaging with RabbitMQ
+- Integration with AWS services (S3, SQS) and event-driven components
+- Writing unit and integration tests with JUnit and Mockito
+- Application containerization with Docker and version control with Git
+- Application of Clean Code, SOLID principles, and Design Patterns
+- API documentation with Swagger/OpenAPI
 
-    </td>
-    <td width="50%" valign="top">
+
+<h2></h2>
 
 ### Education
 
@@ -61,50 +100,6 @@ _Fev. 2021 – Mar. 2025_
 - **English – B2:** fluent technical reading, intermediate written communication, practice in documentation, tutorials and international courses.
 - **Spanish – B1:** basic reading and general understanding.
 
-<h2></h2>
-
-### Skills
-
-<h2></h2>
-
-![Java](https://img.shields.io/badge/Java-1E4F91?style=flat&logo=java&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-1E4F91?style=flat&logo=gradle&logoColor=white)
-![C](https://img.shields.io/badge/C-1E4F91?style=flat&logo=c&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-1E4F91?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-1E4F91?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E4F91?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2496ED?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2496ED?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2496ED?style=flat&logo=postgresql&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2496ED?style=flat&logo=yarn&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-25A162?style=flat&logo=springboot&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-25A162?style=flat&logo=swagger&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-25A162?style=flat&logo=vim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-FCC624?style=flat&logo=hibernate&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=flat&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-FCC624?style=flat&logo=vite&logoColor=black)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6C37?style=flat&logo=rabbitmq&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6C37?style=flat&logo=ubuntu&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-FF6C37?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF6C37?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-C71A36?style=flat&logo=freebsd&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-C71A36?style=flat&logo=npm&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-C71A36?style=flat&logo=flask&logoColor=white)
-
-<h2></h2>
-
-### Certifications
-
-<h2></h2>
-
-- **Back-End Developer** – Oracle Next Education  
-- **Arquitetura com Spring Boot e Cloud** – DIO  
-- **Java e Spring Framework** – Alura  
 
     </td>
   </tr>
@@ -131,7 +126,7 @@ _Fev. 2021 – Mar. 2025_
 <!-- img src: https://br.freepik.com/psd-gratuitas/renderizacao-3d-do-icone-de-bitcoin-do-grafico_25778906.htm  -->
 
 **Spendwise API** - Backend for managing personal expenses, with dynamic filters, JWT authentication, income and expense management, budgeting by category, and financial reports generation.  
-**Technologies:** `Java`, `Spring Boot`, `JWT`, `OAuth2 RS`, `PostgreSQL`, `Hibernate`, `JUnit`, `Swagger`, `H2`
+**Technologies:** `Java`, `Spring Boot`, `JWT`, `OAuth2 RS`, `PostgreSQL`, `Hibernate`, `JUnit`, `Swagger`, `H2` <br>
 **Links:** [Repository](https://github.com/nataliatsi/api-despesas-java-05/tree/natalia)
 
 <h2></h2>
@@ -156,12 +151,3 @@ _Fev. 2021 – Mar. 2025_
 
 <h2></h2>
 
-<div align="center">
-
-<img height="110px" width="110px" src="assets/badges/bootcamp-santander-2025-backend-com-java.webp" alt="Badge Bootcamp Santander 2025 – Backend com Java"/>
-<img height="130px" width="130px" src="assets/badges/tonnie-java-and-ai-in-europe.webp" alt="Badge Bootcamp TONNIE – Java and AI in Europe"/>
-<img height="110px" width="110px" src="assets/badges/arquitetura-com-spring-boot-e-cloud.webp" alt="Badge Bootcamp Coding the Future – Arquitetura com Spring Boot e Cloud"/>
-<img height="110px" width="110px" src="assets/badges/bootcamp-santander-2024-backend-com-java.webp" alt="Badge Bootcamp Santander 2024 – Backend com Java"/>
-<img height="110px" width="110px" src="assets/badges/oracle-one.svg" alt="Badge Formação Java Backend Developer – Oracle Next Education + Alura"/>
-
-</div>
