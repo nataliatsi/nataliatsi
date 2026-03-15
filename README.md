@@ -35,7 +35,7 @@ I build scalable and secure RESTful services with **Spring Boot**, and I'm curre
 
 My experience comes from **personal and academic projects** — which means every line of code I've shipped was driven by curiosity and a genuine desire to learn, not just to meet a deadline.
 
-Outside of code, I volunteer at **[ProGirls](https://github.com/Programmer-Girls)** as a Tech Lead, where I coordinate a team of volunteers, define our technical roadmap, and help build tools that support a community I really believe in 💙
+Outside of code, I volunteer at **[ProGirls](https://github.com/Programmer-Girls)** as a Tech Lead, where I coordinate a team of volunteers, define our technical roadmap, maintain the **[community website](https://www.progirls.com.br/)**, and help build tools that support a community I really believe in 💙
 
 </td>
 </tr>
